@@ -1,0 +1,397 @@
+{
+  "count": 56,
+  "dbs": [
+    {
+      "name": "Oracle",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/13_oracle_200-42x42.png",
+      "about": "Oracle Autonomous Database is an all-in-one cloud database solution for data marts, data lakes, operational reporting, and batch data processing.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Oracle Cloud",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/Logo_databas_Oracle_Database_Cloud_Services_200-42x42.png",
+      "about": "Oracle Autonomous Database is an all-in-one cloud database solution for data marts, data lakes, operational reporting, and batch data processing.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "MySQL Cloud",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/Logo_databas_Oracle_MySQL_Cloud_200-42x42.png",
+      "about": "MySQL is an Oracle-backed open source relational database management system (RDBMS) very popular with web applications and online publishing.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "MySQL",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/10_MySQL_200-42x42.png",
+      "about": "MySQL is an Oracle-backed open source relational database management system (RDBMS) very popular with web applications and online publishing.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/7_Microsoft_SQL_100-1-42x42.png",
+      "about": "Microsoft SQL Server is a industry standard relational database management system (RDBMS) used in a wide variety of BI and analytics applications.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/06/14_PostgreSQL1200-42x42.png",
+      "about": "PostgreSQL also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/mongodb-42x42.png",
+      "about": "MongoDB is a cross-platform document-oriented and NoSQL database.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Snowflake",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/16_snowflake_200-42x42.png",
+      "about": "The Snowflake Cloud Data Platform includes a pure cloud, SQL data warehouse.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Elasticsearch",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/elasticsearch-42x42.png",
+      "about": "Elasticsearch is the world’s leading free and open search and analytics solution with an emphasis on speed and scalability.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Db2",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/2_DB2_LUW_100-42x42.png",
+      "about": "Db2, or Database 2, is a set of relational database products built and offered by IBM to store, analyze and retrieve data with maximum performance.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "IBM Db2 z/OS",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/2_DB2_LUW_100-42x42.png",
+      "about": "IBM Db2 for z/OS is a relational database management system that runs on the mainframe.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "IBM Db2 Cloud",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/Logo_databas_IBM_DB2_on_Cloud_200-42x42.png",
+      "about": "IBM Db2 on Cloud is a fully managed SQL cloud database with point-in-time recovery and high-availability disaster recovery (HADR).",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "IBM Db2 iSeries",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/2_DB2_LUW_100-42x42.png",
+      "about": "IBM Db2 is a family of data management products, including the Db2 relational database.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "SQLite",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/17_SQLite_200-42x42.png",
+      "about": "SQLite implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Microsoft Access",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/access-42x42.png",
+      "about": "Microsoft Access is a database management system (DBMS) from Microsoft that combines the relational Access Database Engine (ACE) with a graphical user interface and software-development tools.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Cassandra",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/Cassandra_logo-42x29.png",
+      "about": "Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "MariaDB",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/8_MariaDB_200-1-42x42.png",
+      "about": "MariaDB is an open source relational database management system (DBMS) that is a compatible drop-in replacement for the widely used MySQL.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Databricks",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2024/06/databricks_2-39x42.png",
+      "about": "Databricks is a unified data analytics platform that provides a collaborative environment for data engineering, data science, and machine learning at scale.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Azure SQL Database",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/06/azure-42x42.png",
+      "about": "Azure SQL Database is a SQL Server database engine, based on the latest stable Enterprise Edition of SQL Server and fully managed by Azure.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Google BigQuery",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/bigquery-42x42.png",
+      "about": "BigQuery is a fully-managed, serverless data warehouse that enables scalable analysis over petabytes of data. It is a Platform as a Service (PaaS) that supports querying using ANSI SQL.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Hive",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/hive-42x42.png",
+      "about": "Apache Hive is a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Teradata",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/teradata-42x42.png",
+      "about": "Teradata is a Relational Database Management System (RDBMS) suitable for large data warehousing applications.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Solr",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/solr-42x42.png",
+      "about": "Solr is a fast, open source enterprise search platform built on Apache Lucene™.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "SAP ASE",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/sap-42x20.png",
+      "about": "SAP ASE is a relational model database server developed by Sybase Corporation.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Firebird",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/firebird-42x42.png",
+      "about": "Firebird is an open-source SQL relational database management system that runs on Linux, Microsoft Windows, macOS and several Unix platforms.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Azure Synapse Serverless",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2024/06/synapse-1-37x42.png",
+      "about": "Azure Synapse Serverless offers flexible and cost-effective data processing without the need to manage infrastructure, enabling rapid and scalable data analytics.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Azure Synapse Dedicated",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2024/06/synapse-1-37x42.png",
+      "about": "Azure Synapse Dedicated is a powerful and scalable data platform providing high performance and reliability for data warehousing and analytics solutions.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Informix",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/6_Informix_200-42x42.png",
+      "about": "IBM Informix is an embeddable, high-performance database for integrating SQL, NoSQL, JSON, time-series and spatial data that's designed for analytics int the cloud.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "ClickHouse",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/clickhouse-1-42x42.png",
+      "about": "ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data reports in real-time using SQL queries.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Redshift",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/1_Amazon-redshift_200-42x42.png",
+      "about": "Redshift is a data warehouse product which forms part of the larger cloud-computing platform Amazon Web Services.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Vertica",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/18_Vertica_200-42x42.png",
+      "about": "Vertica is a columnar data storage platform designed to handle large volumes of data, which enables very fast query performance in traditionally intensive scenarios.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Presto",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/presto-42x42.png",
+      "about": "Presto is a distributed query engine for big data using the SQL query language.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Greenplum",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/Logo_databas_Greenplum_200-42x42.png",
+      "about": "Greenplum Database GPDB is an advanced, fully featured, open source data warehouse, based on PostgreSQL.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Netezza",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/11_Netezza_200-42x42.png",
+      "about": "IBM Netezza is a powerful and highly parallelized Data Warehousing system that is simple to administer and to maintain.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "H2",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/5_H2_200-42x42.png",
+      "about": "H2 is a open source rdbms that can be embedded in Java applications or run in client-server mode.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Trino",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/trino-42x42.png",
+      "about": "Trino is an ANSI SQL compliant query engine, that works with a wide variety of BI tools.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Derby",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/3_Derby_100-42x42.png",
+      "about": "Apache Derby is a rdbms developed by the Apache Software Foundation focusing on easy installation and usage with a minimal disk-space footprint.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "SingleStore",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/singlestore-42x42.png",
+      "about": "SingleStore (formerly MemSQL) is a cloud-native database designed for data-intensive applications. A distributed, relational, SQL database management system (RDBMS) that features ANSI SQL support.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Actian X (Ingres)",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/actianx-42x42.png",
+      "about": "Actian X is a combination of Ingres transactional and Vector analytic databases, integration and a monitoring tool.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "SAP SQL Anywhere (Sybase SQL Anywhere)",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/sap-42x20.png",
+      "about": "SAP SQL Anywhere is a proprietary relational database management system (RDBMS) product from SAP.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Progress",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/progress-42x42.png",
+      "about": "Progress OpenEdge RDBMS supports modern, mission-critical, business applications developed using the OpenEdge application development platform",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "HSQLDB",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/hypersql-42x42.png",
+      "about": "HSQLDB (HyperSQL DataBase) is a SQL relational database system written in Java. It offers a small, fast multithreaded and transactional database.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "InterSystems IRIS",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/intersystems-42x42.png",
+      "about": "Iris is an object-oriented database management system being developed at Hewlett-Packard Laboratories.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "DataDirect's Autonomous REST Connector",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/datadirect-42x42.png",
+      "about": "Progress DataDirect Autonomous REST Connector is an intelligent, customizable data connectivity solution enabling build and deploy of data connectors without coding.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Salesforce.com",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/salesforce-1-42x32.png",
+      "about": "The Salesforce Database is powered by Oracle. There are a number of languages that are used for the Salesforce Database including SQL.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "CData Software JDBC Drivers",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/cdata-42x42.png",
+      "about": "Easy-to-use JDBC Drivers with powerful Enterprise-level features. Connect JDBC with Salesforce, NetSuite, SharePoint, Secure File Transfer, and more.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "SAP IQ (Sybase IQ)",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/sap-42x20.png",
+      "about": "SAP IQ is a column-based, petabyte scale, relational database software system used for BI, data warehousing, and data marts. Replaced by Yellowbrick.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "MaxDB",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/maxdb-42x9.png",
+      "about": "MaxDB is a heavy-duty, SAP-certified open source database that offers high availability, scalability and a comprehensive feature set.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Exasol",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/4_Exasol_200-42x42.png",
+      "about": "Exasol is a high-performance, in-memory, MPP database specifically designed for analytics of large data sets in real time.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "IBM IMS",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/ibmims-42x42.png",
+      "about": "IBM IMS is a hierarchical database management software system for online transaction processing (OLTP) and online batch processing.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "HPE NonStop SQL",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/nonstop-42x20.png",
+      "about": "NonStop SQL is a relational database management system designed for fault tolerance and scalability, offered by HP.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "NuoDB",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/12_Nuodb_200-42x42.png",
+      "about": "NuoDB is an SQL-oriented transactional database management system (DBMS) designed for distributed deployment in the cloud.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Yellowbrick",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/Logo_databas_Yellobrick_200-42x42.png",
+      "about": "Yellowbrick Data Warehouse is an advanced, massively parallel processing (MPP) SQL database designed for batch, real-time, ad hoc, and mixed workloads.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "CrateDB",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/cratedb-42x42.png",
+      "about": "CrateDB is a open-source distributed SQL database management system that integrates a fully searchable document-oriented data store.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "FrontBase",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/frontbase-42x20.png",
+      "about": "FrontBase is a relational database management system written in ANSI C to be scalable and fast.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    },
+    {
+      "name": "Mimer SQL",
+      "icon": "https://www.dbvis.com/wp-content/uploads/2023/08/9_MimerSQL_200-42x42.png",
+      "about": "Mimer SQL is a high performance database engine, targeted at mission-critical client/server environments while offering scaleable performance on multiple plattforms.",
+      "type": "",
+      "created_at": "2024-09-27 14:00:10"
+    }
+  ]
+}
