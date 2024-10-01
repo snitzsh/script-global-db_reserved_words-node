@@ -1,3 +1,5 @@
+// #!/usr/bin/env node
+
 const { Command } = require('commander');
 const {
   mkdir: fsMkdir,
@@ -341,11 +343,13 @@ function cmdSearchWord (utc_time = {}, dirs = {}, options = {dbName: "", word: "
   let total_file_path = createPath(`reserved-words/${db_name}/total.json`);
   readJsonFromFile(total_file_path, (error, data) => {
     if (error) return;
-    let found_word = data.reserved_words[word.toUpperCase()]; // TODO: should all dbs have the keyword uppercased?
+    // TODO: should all dbs have the keyword uppercased?
+    let found_word = data.reserved_words[word.toUpperCase()];
     if (!found_word) {
-      console.error(`Word ${word} not found`);
+      console.info(`Word '${word}' is available.`);
+    } else {
+      console.error(`Word ${word} is a reserved word.`);
     }
-    console.info(found_word);
   });
 }
 
@@ -497,7 +501,7 @@ async function main () {
     .requiredOption('--word <value>', 'Reserved word you wish to search')
     .action((options) => {
       // db-name = dbName
-      cmdSearchWord('merge-reserved-words', utc_time, dirs, options);
+      cmdSearchWord(utc_time, dirs, options);
     });
 
   program.parse(process.argv);
